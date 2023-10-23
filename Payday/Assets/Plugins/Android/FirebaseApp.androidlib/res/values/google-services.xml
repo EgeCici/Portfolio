@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">1053075724381</string>
+  <string name="google_storage_bucket" translatable="false">gunday-e5edf.appspot.com</string>
+  <string name="project_id" translatable="false">gunday-e5edf</string>
+  <string name="google_api_key" translatable="false">AIzaSyBOQhiytpRW9BB3NedKA-ju9TIkmh0ndE0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBOQhiytpRW9BB3NedKA-ju9TIkmh0ndE0</string>
+  <string name="google_app_id" translatable="false">1:1053075724381:android:17d5096b6efaca403955b4</string>
+  <string name="default_web_client_id" translatable="false">1053075724381-310gf70dtbv0aig03rqiipqs2qsovt9q.apps.googleusercontent.com</string>
+</resources>

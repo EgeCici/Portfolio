@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053075724381",
+    "project_id": "gunday-e5edf",
+    "storage_bucket": "gunday-e5edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053075724381:android:17d5096b6efaca403955b4",
+        "android_client_info": {
+          "package_name": "com.Emir.Gunday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053075724381-310gf70dtbv0aig03rqiipqs2qsovt9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQhiytpRW9BB3NedKA-ju9TIkmh0ndE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053075724381-310gf70dtbv0aig03rqiipqs2qsovt9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

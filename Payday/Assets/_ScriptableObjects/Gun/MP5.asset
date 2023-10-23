@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ce7e44366608045a182b8a1d8d7ac3, type: 3}
+  m_Name: MP5
+  m_EditorClassIdentifier: 
+  name: MP5
+  sprite: {fileID: 21300000, guid: 120b1c5d6315e40468c7032923ef0124, type: 3}
+  spriteScale: {x: 92, y: 92}
+  damage: 10
+  bullet: 30
+  accuracy: 8
+  speed: 18
+  magSize: 30
+  fireRate: 800
+  reloadTime: 2
+  reloading: 0
+  shootDelay: 0.1
+  isBuyed: 0
+  buyed_key: MP5_BUY
+  price: 2500
+  audioClip: {fileID: 8300000, guid: 5f36dc1aa05d4354e9bea30e6bb63ffe, type: 3}

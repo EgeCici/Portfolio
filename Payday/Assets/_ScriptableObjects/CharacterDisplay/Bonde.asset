@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da2df11d8cc117f4bb8a78ab6aec5cf3, type: 3}
+  m_Name: Bonde
+  m_EditorClassIdentifier: 
+  name: Bonde
+  sprite: {fileID: 21300000, guid: c13180348c61a1e4cad21317de2b353d, type: 3}
+  health: 200
+  speed: 5
+  price: 5000
+  isBuyed: 0
+  buy_key: BONDE_BUY
+  meshRenderer: {fileID: 0}
